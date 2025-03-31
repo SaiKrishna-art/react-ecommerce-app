@@ -1,3 +1,4 @@
+
 {
   "name": "redux-project",
   "version": "0.1.0",
@@ -14,6 +15,7 @@
     "react-router-dom": "^7.4.1",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
+    "homepage": "https://your-username.github.io/react-ecommerce-app"
   },
   "scripts": {
     "start": "react-scripts start",
