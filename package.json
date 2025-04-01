@@ -1,8 +1,8 @@
-
 {
   "name": "redux-project",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://SaiKrishna-art.github.io/react-ecommerce-app",
   "dependencies": {
     "@reduxjs/toolkit": "^2.6.1",
     "@testing-library/dom": "^10.4.0",
@@ -14,28 +14,16 @@
     "react-redux": "^9.2.0",
     "react-router-dom": "^7.4.1",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4",
-    "homepage": "https://SaiKrishna-art.github.io/react-ecommerce-app"
-<<<<<<< HEAD
-=======
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
->>>>>>> e8125a14cfb6194f6534a77f7fbe7a1e74c6291b
   },
- "scripts": {
-  "start": "react-scripts start",
-  "build": "react-scripts build",
-  "test": "react-scripts test",
-  "eject": "react-scripts eject",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
-},
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -53,8 +41,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^6.3.0"
   }
 }
