@@ -1,8 +1,8 @@
-
 {
   "name": "redux-project",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://SaiKrishna-art.github.io/react-ecommerce-app",
   "dependencies": {
     "@reduxjs/toolkit": "^2.6.1",
     "@testing-library/dom": "^10.4.0",
@@ -14,14 +14,13 @@
     "react-redux": "^9.2.0",
     "react-router-dom": "^7.4.1",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4",
-    "homepage": "https://SaiKrishna-art.github.io/react-ecommerce-app"
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
