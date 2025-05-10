@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/react-ecommerce-app/static/js/main.bf50c021.js",
+    "index.html": "/react-ecommerce-app/index.html",
+    "main.bf50c021.js.map": "/react-ecommerce-app/static/js/main.bf50c021.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bf50c021.js"
+  ]
+}
